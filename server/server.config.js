@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://hideois.952768.xyz/'
+const BAREURL = 'https://替换掉自己的/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
